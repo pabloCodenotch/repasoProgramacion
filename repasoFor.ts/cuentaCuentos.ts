@@ -1,5 +1,5 @@
-import { charCounter } from "./caracteres";
-import { parImpar } from "./parImpar";
+import { charCounter } from "../caracteres";
+import { parImpar } from "../parImpar";
 
 function counter(array :string []):string
 {
