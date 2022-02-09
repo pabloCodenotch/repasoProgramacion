@@ -8,6 +8,6 @@
 
 let array: string[] = ["klaatu", "barada", "nikto"]
 
-charCounter(array)
+console.log(charCounter(array))
 
 // SE QUE NO TIENE NI BUCLE NI NADA PERO SIRVE
